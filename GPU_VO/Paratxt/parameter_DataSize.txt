@@ -1,0 +1,3 @@
+mapfeature_num 20
+matchfeature_num 15
+data_col 7
